@@ -1,0 +1,5 @@
+<!-- numerik -->
+# integral
+nilai orde itu adalah pangkat tertinggi 
+# aturan trapesium
+hanya melibatkan 1 segment dan bentuk pendekatannya garis lurus
