@@ -1,7 +1,7 @@
-Repository File Semester Ganjil 20201
+== My repo Kuliah Jurusan Fisika ==
 
-<!--- yang sudah finish -->
-tugas fisika zat padat 1 (sdh dikumpul)
-<!-- agenda besok -->
-kumpul tugas fisika statistik
-cari buku termodinamika
+* .tugas fisika zat padat 1 (done)
+* .cari buku termodinamika
+* .cari buku tentang statistika dan metodologi riset
+* .pelajari coding numerik
+* .hari sabtu test max A
