@@ -1,5 +1,7 @@
 Repository File Semester Ganjil 20201
 
 <!--- yang sudah finish -->
-1. fisika zat padat I (dikumpul besok)
-2. fisika statistik (dikumpul besok)
+# tugas fisika zat padat 1 (sdh dikumpul)
+<!-- agenda besok -->
+# kumpul tugas fisika statistik
+# cari buku termodinamika
