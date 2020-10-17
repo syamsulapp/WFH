@@ -1,7 +1,6 @@
 == My repo Kuliah Jurusan Fisika ==
 
-* .cari buku tentang optika modern
-* .hari sabtu test max A
+* .tugas fisika zat padat I 
 
 == List Matakuliah Dan Jam ==
 
