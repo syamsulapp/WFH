@@ -1,6 +1,11 @@
 == My repo Kuliah Jurusan Fisika ==
 
-* .tugas fisika zat padat I 
+* .tugas fisika zat padat I (TUGAS 2 == DONE)
+* .tugas fisika zat padat I (TUGAS 1 == DONE)
+* .tugas fisika statistik (TUGAS 1 == DONE)
+
+== link tugas fisika zat padat I ==
+* .mjmaterialenergylaboratory@gmail.com
 
 == List Matakuliah Dan Jam ==
 
