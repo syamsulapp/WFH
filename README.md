@@ -3,9 +3,13 @@
 * .tugas fisika zat padat I (TUGAS 2 == DONE)
 * .tugas fisika zat padat I (TUGAS 1 == DONE)
 * .tugas fisika statistik (TUGAS 1 == DONE)
+* .tugas statistika (tugas 1 == NOT) tugas nya di halaman 15 - 16
 
 == link tugas fisika zat padat I ==
 * .mjmaterialenergylaboratory@gmail.com
+
+== link absen setiap matakuliah ==
+http://bit.ly/AbsensiMKStatistikadanMetodologiRiset
 
 == List Matakuliah Dan Jam ==
 
