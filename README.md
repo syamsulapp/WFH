@@ -10,6 +10,7 @@
 
 
 == link absen setiap matakuliah ==
+
 == Senin ==
 * .http://bit.ly/AbsensiFisikaKomputasiIIKlsB
 * .http://bit.ly/AbsensiFisikaKuantumKlsB
