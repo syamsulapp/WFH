@@ -10,9 +10,22 @@
 
 
 == link absen setiap matakuliah ==
-*. http://bit.ly/AbsensiMKStatistikadanMetodologiRiset
-*. http://bit.ly/AbsensiFisikaKuantumKlsB
+== Senin ==
+* .http://bit.ly/AbsensiFisikaKomputasiIIKlsB
+* .http://bit.ly/AbsensiFisikaKuantumKlsB
 
+== selasa ==
+* .http://bit.ly/AbsensiFisikaZatPadat1KlsB
+* .http://bit.ly/AbsensiMKStatistikadanMetodologiRiset
+
+== rabu ==
+* .http://bit.ly/AbsensiMKFisikaStatistikaKlsB
+* .http://bit.ly/AbsensiMKKeramik
+
+== kamis ==
+* .http://bit.ly/AbsensiMKTermodinamikaKlsB
+* .http://bit.ly/AbsensiMKSeminarFisikaKlsA
+* .http://bit.ly/AbsensiMKOptikaModernKlsB
 
 == List Matakuliah Dan Jam ==
 
