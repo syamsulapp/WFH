@@ -10,8 +10,8 @@
 
 
 == link absen setiap matakuliah ==
-   http://bit.ly/AbsensiMKStatistikadanMetodologiRiset
-   http://bit.ly/AbsensiFisikaKuantumKlsB
+*. http://bit.ly/AbsensiMKStatistikadanMetodologiRiset
+*. http://bit.ly/AbsensiFisikaKuantumKlsB
 
 
 == List Matakuliah Dan Jam ==
