@@ -8,8 +8,11 @@
 == link tugas fisika zat padat I ==
 * .mjmaterialenergylaboratory@gmail.com
 
+
 == link absen setiap matakuliah ==
-http://bit.ly/AbsensiMKStatistikadanMetodologiRiset
+   http://bit.ly/AbsensiMKStatistikadanMetodologiRiset
+   http://bit.ly/AbsensiFisikaKuantumKlsB
+
 
 == List Matakuliah Dan Jam ==
 
