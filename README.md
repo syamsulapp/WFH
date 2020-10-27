@@ -1,7 +1,6 @@
 == My repo Kuliah Jurusan Fisika ==
 
-* .tugas fisika statistik (tugas 2 == NOT ) kumpul hari jumat tanggal 23
-* .tugas statistika (tugas 1 == NOT) tugas nya di halaman 15 - 16 dikumpul minggu depan
+* .tugas fisika zat padat I (kumpul minggu depan )
 
 == link tugas fisika zat padat I ==
 * .mjmaterialenergylaboratory@gmail.com
