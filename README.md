@@ -1,6 +1,6 @@
 == My repo Kuliah Jurusan Fisika ==
 
-* .tugas fisika zat padat I (kumpul minggu depan )
+* .tugas fisika zat padat I (kumpul tanggal 10 )
 
 == link tugas fisika zat padat I ==
 * .mjmaterialenergylaboratory@gmail.com
